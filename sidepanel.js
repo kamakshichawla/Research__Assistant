@@ -1,3 +1,4 @@
+
 document.addEventListener("DOMContentLoaded", () => {
     chrome.storage.local.get(['researchNotes'], function(result){
 if(result.researchNotes){
@@ -52,3 +53,5 @@ function showResult(content){
 
 
 }
+
+	

@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../ResearchAssistant/assistant/target/classes/META-INF/maven/com.research/assistant"
+		}
+	],
+	"settings": {}
+}
